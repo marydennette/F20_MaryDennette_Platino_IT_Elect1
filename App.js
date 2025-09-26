@@ -1,4 +1,3 @@
-// App.js (Activity5 branch)
 import React from "react";
 import { View, StyleSheet } from "react-native";
 import CounterApp from "./CounterApp";
